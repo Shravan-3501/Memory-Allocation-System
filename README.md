@@ -8,3 +8,9 @@ In part 2, Binary Search Trees are used to implement `defragment` along with the
 Similar functions have been implemented in part 3 but using AVL Trees.
 
 All the codes have been implemented using `java` programming language.
+
+## Usage
+Standard java commands can be used to execute the files.
+Use `javac .* file_name.java` to compile the file and `java file_name` to execute it.
+
+Set the name of the input and output files as required in the file `Driver.java`.
